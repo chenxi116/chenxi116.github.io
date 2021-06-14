@@ -7,33 +7,48 @@ permalink: /
 
 <img style="float: left; width: 200px; margin:0 30px 20px 0" src="assets/round.png">
 
-I am a Ph.D. student at Johns Hopkins University, where my advisor is [Bloomberg Distinguished Professor][bdp] [Alan Yuille][alan].
-Before that, I received my M.S. at University of California, Los Angeles and B.E. at Tsinghua University. 
+I am a research scientist at Waymo.
+Before that, I received my Ph.D. in Computer Science from Johns Hopkins University, M.S. in Statistics from University of California, Los Angeles, and B.E. in Automation from Tsinghua University. 
 I have also spent time at Facebook, Google, Adobe, Toyota Technological Institute at Chicago, University of Toronto, and Rice University. 
 
-My research lies in computer vision and natural language processing. 
+My main research focus is automated machine learning for computer vision. 
 Here is my [CV][cv] and [Google Scholar][scholar].
 
 
 ## News
 
-- 1 paper accepted to AAAI 2020
+- 1 paper accepted to CVPR 2021
 
-- 1 paper accepted to 3DV 2019
+- 1 paper accepted to IJCV
 
-- I received [Google PhD Fellowship][google-fellowship]
+- I received the [MINDS Doctoral Dissertation Award][minds]
 
-- 3 papers (2 orals, 1 poster) accepted to CVPR 2019
+- Check out [my greatest achievement during quarantine][goldberg]!
 
-- 1 paper accepted to ECCV 2018 as oral
+- 1 paper accepted to ECCV 2020 as spotlight
 
 
 ## Publications
 
+- **Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset**  
+Scott Ettinger, Shuyang Cheng, Benjamin Caine, **Chenxi Liu**, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov  
+arXiv preprint, 2021  
+[\[arXiv\]][womd-arxiv]
+
+- **Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement**   
+Zefan Li, **Chenxi Liu**, Alan Yuille, Bingbing Ni, Wenjun Zhang, Wen Gao  
+In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2021  
+[\[arXiv\]][psl-arxiv]
+
+- **Deep Nets: What have they ever done for Vision?**  
+Alan Yuille, **Chenxi Liu**  
+*International Journal of Computer Vision* (**IJCV**), 2021  
+[\[arXiv\]][deepnets-arxiv] [\[CBMM\]][deepnets-cbmm] [\[Blog\]][deepnets-blog]
+
 - **Are Labels Necessary for Neural Architecture Search?**  
 **Chenxi Liu**, Piotr Dollar, Kaiming He, Ross Girshick, Alan Yuille, Saining Xie  
-arXiv preprint, 2020  
-[\[arXiv\]][unnas-arxiv]
+In *European Conference on Computer Vision* (**ECCV**), 2020 **Spotlight**    
+[\[arXiv\]][unnas-arxiv] [\[Paper\]][unnas-paper] [\[Suppl\]][unnas-suppl] [\[Slides (Short)\]][unnas-slides-short] [\[Slides (Long)\]][unnas-slides-long] [\[Video (Short)\]][unnas-video-short] [\[Video (Long)\]][unnas-video-long] [\[Code\]][unnas-code]
 
 - **Identifying Model Weakness with Adversarial Examiner**  
 Michelle Shu, **Chenxi Liu**, Weichao Qiu, Alan Yuille  
@@ -74,11 +89,6 @@ In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2019
 **Chenxi Liu**, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy  
 In *European Conference on Computer Vision* (**ECCV**), 2018 **Oral**    
 [\[arXiv\]][pnas-arxiv] [\[Paper\]][pnas-paper] [\[Suppl\]][pnas-suppl] [\[Slides\]][pnas-slides] [\[Poster\]][pnas-poster] [\[Blog\]][automl-blog] [\[Code (TF official)\]][pnas-tf-official] [\[Code (TF simplified)\]][pnas-tf-simplified] [\[Code (PyTorch)\]][pnas-pytorch]
-
-- **Deep Nets: What have they ever done for Vision?**  
-Alan Yuille, **Chenxi Liu**  
-*Center for Brains, Minds and Machines (CBMM) Memo No. 088*  
-[\[arXiv\]][deepnets-arxiv] [\[CBMM\]][deepnets-cbmm] [\[Blog\]][deepnets-blog]
 
 - **Few-Shot Image Recognition by Predicting Parameters from Activations**  
 Siyuan Qiao, **Chenxi Liu**, Wei Shen, Alan Yuille  
@@ -121,10 +131,22 @@ In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2015 **Or
 [jason]: https://cs.jhu.edu/~jason/
 [cv]: https://cs.jhu.edu/~cxliu/cv/CV_Chenxi_Liu.pdf
 [scholar]: https://scholar.google.com/citations?user=qvRsU00AAAAJ&hl=en
+[waymo-intern]: https://waymo.com/joinus/2435634/
+[minds]: https://www.minds.jhu.edu/awards/minds-doctoral-dissertation-award/
+[goldberg]: https://youtu.be/ywWSC1sNEd4
 [snap-fellowship]: https://snapresearchfellowship.splashthat.com
 [nvidia-fellowship]: https://blogs.nvidia.com/blog/2018/04/04/nvidia-graduate-fellowship-program/
 [google-fellowship]: https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html
+[womd-arxiv]: https://arxiv.org/abs/2104.10133
+[psl-arxiv]: https://arxiv.org/abs/2106.05554
 [unnas-arxiv]: https://arxiv.org/abs/2003.12056
+[unnas-paper]: https://cs.jhu.edu/~cxliu/papers/unnas_eccv20.pdf
+[unnas-suppl]: https://cs.jhu.edu/~cxliu/papers/unnas_suppl.pdf
+[unnas-slides-short]: https://cs.jhu.edu/~cxliu/slides/unnas-talk-eccv-short.pdf
+[unnas-slides-long]: https://cs.jhu.edu/~cxliu/slides/unnas-talk-eccv-long.pdf
+[unnas-video-short]: https://www.youtube.com/watch?v=j9zgskDGbMg
+[unnas-video-long]: https://www.youtube.com/watch?v=pz-uELduTLI
+[unnas-code]: https://github.com/facebookresearch/unnas
 [advexaminer-arxiv]: https://arxiv.org/abs/1911.11230
 [advexaminer-paper]: https://cs.jhu.edu/~cxliu/papers/advexaminer_aaai20.pdf
 [advexaminer-slides]: https://cs.jhu.edu/~cxliu/slides/advexaminer-talk-aaai.pdf
@@ -139,7 +161,7 @@ In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2015 **Or
 [auto-deeplab-slides]: https://cs.jhu.edu/~cxliu/slides/auto-deeplab-talk-cvpr.pdf
 [auto-deeplab-poster]: https://cs.jhu.edu/~cxliu/posters/auto_deeplab_poster.pdf
 [auto-deeplab-code]: https://github.com/tensorflow/models/tree/master/research/deeplab/
-[clevr-ref+-page]: https://cs.jhu.edu/~cxliu/2019/clevr-ref+
+[clevr-ref+-page]: https://cs.jhu.edu/~cxliu/2019/clevr-ref+.html
 [clevr-ref+-arxiv]: https://arxiv.org/abs/1901.00850
 [clevr-ref+-paper]: https://cs.jhu.edu/~cxliu/papers/clevr_ref+_cvpr19.pdf
 [clevr-ref+-suppl]: https://cs.jhu.edu/~cxliu/papers/clevr_ref+_suppl.pdf

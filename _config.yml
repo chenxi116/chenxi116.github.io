@@ -1,6 +1,6 @@
 # Site settings
 title: Chenxi Liu
-email: cxliu@jhu.edu
+email: cxliu@waymo.com
 description: > # this means to ignore newlines until "baseurl:"
   Proud AI Researcher
 baseurl: "/~cxliu" # the subpath of your site, e.g. /blog/
