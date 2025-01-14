@@ -5,34 +5,76 @@ permalink: /
 
 <!-- ## About Me -->
 
-<img style="float: left; width: 200px; margin:0 30px 20px 0" src="assets/round.png">
+<img style="float: left; width: 150px; margin:0 50px 20px 0" src="assets/round.png">
 
-I am a research scientist at Waymo.
-Before that, I received my Ph.D. in Computer Science from Johns Hopkins University, M.S. in Statistics from University of California, Los Angeles, and B.E. in Automation from Tsinghua University. 
-I have also spent time at Facebook, Google, Adobe, Toyota Technological Institute at Chicago, University of Toronto, and Rice University. 
+I am a research scientist at Google DeepMind.
 
-My main research focus is automated machine learning for computer vision. 
+I work on Gemini post-training. 
+
 Here is my [CV][cv] and [Google Scholar][scholar].
 
-
-## News
-
-- 1 paper accepted to CVPR 2021
-
-- 1 paper accepted to IJCV
-
-- I received the [MINDS Doctoral Dissertation Award][minds]
-
-- Check out [my greatest achievement during quarantine][goldberg]!
-
-- 1 paper accepted to ECCV 2020 as spotlight
-
+<br><br>
 
 ## Publications
 
+- **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**  
+Google Gemini Team; Core Contributor  
+Technical Report  
+[\[arXiv\]][gemini15-arxiv]
+
+- **Gemini: a family of highly capable multimodal models**  
+Google Gemini Team; Core Contributor  
+Technical Report  
+[\[arXiv\]][gemini-arxiv]
+
+- **De-Diffusion Makes Text a Strong Cross-Modal Interface**  
+Chen Wei, **Chenxi Liu**, Siyuan Qiao, Zhishuai Zhang, Alan Yuille, Jiahui Yu  
+In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024   
+[\[arXiv\]][dediffusion-arxiv]
+
+- **LEF: Late-to-Early Temporal Fusion for LiDAR 3D Object Detection**  
+Tong He, Pei Sun, Zhaoqi Leng, **Chenxi Liu**, Dragomir Anguelov, Mingxing Tan  
+In *International Conference on Intelligent Robots and Systems* (**IROS**), 2023  
+[\[arXiv\]][lef-arxiv]
+
+- **MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences**  
+Yingwei Li, Charles R. Qi, Yin Zhou, **Chenxi Liu**, Dragomir Anguelov  
+In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2023  
+[\[arXiv\]][modar-arxiv]
+
+- **LidarAugment: Searching for Scalable 3D LiDAR Data Augmentations**  
+Zhaoqi Leng, Guowang Li, **Chenxi Liu**, Ekin Dogus Cubuk, Pei Sun, Tong He, Dragomir Anguelov, Mingxing Tan  
+In *International Conference on Robotics and Automation* (**ICRA**), 2023  
+[\[arXiv\]][lidaraugment-arxiv]
+
+- **SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds**   
+Pei Sun, Mingxing Tan, Weiyue Wang, **Chenxi Liu**, Fei Xia, Zhaoqi Leng, Dragomir Anguelov  
+In *European Conference on Computer Vision* (**ECCV**), 2022  
+[\[arXiv\]][swformer-arxiv]
+
+- **LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds**  
+**Chenxi Liu**, Zhaoqi Leng, Pei Sun, Shuyang Cheng, Charles R. Qi, Yin Zhou, Mingxing Tan, Dragomir Anguelov  
+In *European Conference on Computer Vision* (**ECCV**), 2022  
+[\[arXiv\]][lidarnas-arxiv] [\[Poster\]][lidarnas-poster] [\[Video\]][lidarnas-video]
+
+- **Multi-Class 3D Object Detection with Single-Class Supervision**  
+Mao Ye, **Chenxi Liu**, Maoqing Yao, Weiyue Wang, Zhaoqi Leng, Charles R. Qi, Dragomir Anguelov  
+In *International Conference on Robotics and Automation* (**ICRA**), 2022  
+[\[arXiv\]][scs-arxiv]
+
+- **PolyLoss: A Polynomial Expansion Perspective of Classification Loss Functions**  
+Zhaoqi Leng, Mingxing Tan, **Chenxi Liu**, Ekin Dogus Cubuk, Xiaojie Shi, Shuyang Cheng, Dragomir Anguelov  
+In *International Conference on Learning Representations* (**ICLR**), 2022  
+[\[arXiv\]][polyloss-arxiv]
+
+- **Scene Transformer: A unified architecture for predicting multiple agent trajectories**  
+Jiquan Ngiam, Benjamin Caine, Vijay Vasudevan, Zhengdong Zhang, Hao-Tien Lewis Chiang, Jeffrey Ling, Rebecca Roelofs, Alex Bewley, **Chenxi Liu**, Ashish Venugopal, David Weiss, Ben Sapp, Zhifeng Chen, Jonathon Shlens  
+In *International Conference on Learning Representations* (**ICLR**), 2022  
+[\[arXiv\]][st-arxiv]
+
 - **Large Scale Interactive Motion Forecasting for Autonomous Driving : The Waymo Open Motion Dataset**  
 Scott Ettinger, Shuyang Cheng, Benjamin Caine, **Chenxi Liu**, Hang Zhao, Sabeek Pradhan, Yuning Chai, Ben Sapp, Charles Qi, Yin Zhou, Zoey Yang, Aurelien Chouard, Pei Sun, Jiquan Ngiam, Vijay Vasudevan, Alexander McCauley, Jonathon Shlens, Dragomir Anguelov  
-arXiv preprint, 2021  
+In *International Conference on Computer Vision* (**ICCV**), 2021 **Oral**    
 [\[arXiv\]][womd-arxiv]
 
 - **Progressive Stage-wise Learning for Unsupervised Feature Representation Enhancement**   
@@ -126,6 +168,25 @@ In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2015 **Or
 [\[Project\]][rent3d-page] [\[Paper\]][rent3d-paper] [\[Suppl\]][rent3d-suppl] [\[Slides\]][rent3d-slides] [\[Poster\]][rent3d-poster] [\[Video\]][rent3d-video] [\[Two Minute Papers\]][rent3d-2min]
 
 
+## Miscellaneous
+
+Me playing:
+
+- [Bach: Goldberg Variations][goldberg] (2020)
+
+- [Chopin: Ballade No.1][ballade1] (2021)
+
+- [Beethoven: Piano Sonata No.1][sonata1] (2021)
+
+- [Beethoven: Piano Sonata No.2][sonata2] (2022)
+
+- [Beethoven: Piano Sonata No.3][sonata3] (2023)
+
+- [A voice and piano recital][recital] (2023)
+
+- [Beethoven: Piano Sonata No.4][sonata4] (2024)
+
+
 [bdp]: https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships
 [alan]: https://cs.jhu.edu/~ayuille/
 [jason]: https://cs.jhu.edu/~jason/
@@ -134,9 +195,28 @@ In *Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2015 **Or
 [waymo-intern]: https://waymo.com/joinus/2435634/
 [minds]: https://www.minds.jhu.edu/awards/minds-doctoral-dissertation-award/
 [goldberg]: https://youtu.be/ywWSC1sNEd4
+[ballade1]: https://youtu.be/EsCYUzZvySo
+[sonata1]: https://youtu.be/pSdCUDk5Pww
+[sonata2]: https://youtu.be/MeFw4eIgwjM
+[sonata3]: https://youtu.be/LUS5_Wniu5E
+[sonata4]: https://youtu.be/NMQmlgETaqs
+[recital]: https://www.youtube.com/playlist?list=PLWkXI1ejmNYQ-PJpWx2Mqwp4sAyVwTOR_
 [snap-fellowship]: https://snapresearchfellowship.splashthat.com
 [nvidia-fellowship]: https://blogs.nvidia.com/blog/2018/04/04/nvidia-graduate-fellowship-program/
 [google-fellowship]: https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html
+[gemini15-arxiv]: https://arxiv.org/abs/2403.05530
+[gemini-arxiv]: https://arxiv.org/abs/2312.11805
+[dediffusion-arxiv]: https://arxiv.org/abs/2311.00618
+[lef-arxiv]: https://arxiv.org/abs/2309.16870
+[modar-arxiv]: https://arxiv.org/abs/2306.03206
+[lidaraugment-arxiv]: https://arxiv.org/abs/2210.13488
+[swformer-arxiv]: https://arxiv.org/abs/2210.07372
+[lidarnas-arxiv]: https://arxiv.org/abs/2210.05018
+[lidarnas-poster]: https://cs.jhu.edu/~cxliu/posters/5318.pdf
+[lidarnas-video]: https://cs.jhu.edu/~cxliu/videos/5318.mp4
+[scs-arxiv]: https://arxiv.org/abs/2205.05703
+[polyloss-arxiv]: https://arxiv.org/abs/2204.12511
+[st-arxiv]: https://arxiv.org/abs/2106.08417
 [womd-arxiv]: https://arxiv.org/abs/2104.10133
 [psl-arxiv]: https://arxiv.org/abs/2106.05554
 [unnas-arxiv]: https://arxiv.org/abs/2003.12056
