@@ -17,6 +17,11 @@ Here is my [CV][cv] and [Google Scholar][scholar].
 
 ## Publications
 
+- **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**  
+Google Gemini Team; Core Contributor  
+Technical Report  
+[\[Paper\]][gemini25-paper]
+
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**  
 Google Gemini Team; Core Contributor  
 Technical Report  
@@ -186,6 +191,8 @@ Me playing:
 
 - [Beethoven: Piano Sonata No.4][sonata4] (2024)
 
+- [Beethoven: Piano Sonata No.5][sonata5] (2025)
+
 
 [bdp]: https://en.wikipedia.org/wiki/Bloomberg_Distinguished_Professorships
 [alan]: https://cs.jhu.edu/~ayuille/
@@ -200,10 +207,12 @@ Me playing:
 [sonata2]: https://youtu.be/MeFw4eIgwjM
 [sonata3]: https://youtu.be/LUS5_Wniu5E
 [sonata4]: https://youtu.be/NMQmlgETaqs
+[sonata5]: https://youtu.be/bDrCaHO-R1M
 [recital]: https://www.youtube.com/playlist?list=PLWkXI1ejmNYQ-PJpWx2Mqwp4sAyVwTOR_
 [snap-fellowship]: https://snapresearchfellowship.splashthat.com
 [nvidia-fellowship]: https://blogs.nvidia.com/blog/2018/04/04/nvidia-graduate-fellowship-program/
 [google-fellowship]: https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html
+[gemini25-paper]: https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
 [gemini15-arxiv]: https://arxiv.org/abs/2403.05530
 [gemini-arxiv]: https://arxiv.org/abs/2312.11805
 [dediffusion-arxiv]: https://arxiv.org/abs/2311.00618
