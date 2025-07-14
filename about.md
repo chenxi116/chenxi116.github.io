@@ -7,9 +7,9 @@ permalink: /
 
 <img style="float: left; width: 150px; margin:0 50px 20px 0" src="assets/round.png">
 
-I am a research scientist at Google DeepMind.
+I am a research scientist at Meta Superintelligence Labs.
 
-I work on Gemini post-training. 
+Previously I worked at Google DeepMind on Gemini post-training. 
 
 Here is my [CV][cv] and [Google Scholar][scholar].
 
@@ -20,7 +20,7 @@ Here is my [CV][cv] and [Google Scholar][scholar].
 - **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**  
 Google Gemini Team; Core Contributor  
 Technical Report  
-[\[Paper\]][gemini25-paper]
+[\[Paper\]][gemini25-arxiv]
 
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**  
 Google Gemini Team; Core Contributor  
@@ -212,7 +212,7 @@ Me playing:
 [snap-fellowship]: https://snapresearchfellowship.splashthat.com
 [nvidia-fellowship]: https://blogs.nvidia.com/blog/2018/04/04/nvidia-graduate-fellowship-program/
 [google-fellowship]: https://ai.googleblog.com/2019/09/announcement-of-2019-fellowship.html
-[gemini25-paper]: https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
+[gemini25-arxiv]: https://arxiv.org/abs/2507.06261
 [gemini15-arxiv]: https://arxiv.org/abs/2403.05530
 [gemini-arxiv]: https://arxiv.org/abs/2312.11805
 [dediffusion-arxiv]: https://arxiv.org/abs/2311.00618
