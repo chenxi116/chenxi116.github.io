@@ -20,7 +20,7 @@ Here is my [CV][cv] and [Google Scholar][scholar].
 - **Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities**  
 Google Gemini Team; Core Contributor  
 Technical Report  
-[\[Paper\]][gemini25-arxiv]
+[\[arXiv\]][gemini25-arxiv]
 
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**  
 Google Gemini Team; Core Contributor  
